@@ -1,0 +1,11 @@
+C:\Users\good5\rust-card-game\target\debug\deps\libloading-67a27ef23b307896.d: C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\lib.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\changelog.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\error.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\mod.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\windows\mod.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\safe.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\util.rs
+
+C:\Users\good5\rust-card-game\target\debug\deps\liblibloading-67a27ef23b307896.rmeta: C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\lib.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\changelog.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\error.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\mod.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\windows\mod.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\safe.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\util.rs
+
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\lib.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\changelog.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\error.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\mod.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\os\windows\mod.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\safe.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.9\src\util.rs:

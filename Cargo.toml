@@ -1,0 +1,9 @@
+[package]
+name = "rust-card-game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.26" # GUIフレームワーク
+serde = { version = "1.0", features = ["derive"] } # シリアライズ用
+serde_json = "1.0" # JSON保存用
